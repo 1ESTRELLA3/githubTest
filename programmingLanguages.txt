@@ -2,3 +2,12 @@
 Welcome!
 
 This is text only!....
+
+Python
+Java
+HTML
+JavaScript
+C Language
+C++
+C#
+PHP
